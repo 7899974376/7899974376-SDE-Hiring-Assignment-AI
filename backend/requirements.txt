@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pandas
+openai
+sqlalchemy
+pymysql
+alembic
+python-dotenv
+aiofiles
+pydantic
+sqlalchemy-utils
+sqlparse
+openpyxl
+groq
